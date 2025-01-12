@@ -177,3 +177,7 @@ cython_debug/
 ./MlFlowStarter/mlruns/*
 
 ./MlFlowStarter/mlartifacts/*
+
+
+**/mlartifacts*
+**/mlruns*
